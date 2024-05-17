@@ -1,0 +1,14 @@
+{
+  "websiteTitle": "Hermes Marketing",
+  "header": {
+    "title": "Hermes Marketing"
+  },
+  "footer": {
+    "description": "© 2023 Hermes Marketing. Todos los derechos reservados."
+  },
+  "colors": {
+    "mainColor": "dark_orange",
+    "secondColor": "orange"
+  },
+  "orderColorSchema": "zebra"
+}
